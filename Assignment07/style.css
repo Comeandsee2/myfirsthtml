@@ -1,0 +1,15 @@
+/**
+ * Google Fonts Demo
+ **/
+
+/* Add in the Google Fonts of your choice */
+.googleFont1{
+    font-family: 'Lobster', cursive;
+}
+.classname{
+    font-family: 'Mulish', sans-serif;
+}
+
+.donework{
+    font-family: 'Comforter Brush', cursive;
+}
